@@ -1,0 +1,1 @@
+This is one is reading input from stdin. It makes the upper case letters to lower case and the other way arround, recognises and ingores number and characters which are not letters and has a buffer control so it will not give input at stdin after the length of 5-bytes to make it safe.  
